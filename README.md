@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizin4" alt="rizin4" /></a> </p> -->
 
-- 🔭 I’m currently working on [React-Django Patient case summary generation chatbot application](https://github.com/Rizin4/Dr.Assist)
+- 🔭 I’m currently working on React-django Machinery Product & Service ecommerce website 
 
 - 💬 Ask me about **Python, Django, React**
 
