@@ -6,12 +6,12 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizin4" alt="rizin4" /></a> </p> -->
 <br>
 
-- 🔭 I’m currently working as an Associate System Engineer at <a href="https://www.tcs.com/" target="_blank">TCS</a> 
+- 🔭 System Engineer at <a href="https://www.tcs.com/" target="_blank">TCS</a> 
 
-- 💬 Ask me about **Python, Django, React**
+<!-- - 💬 Ask me about **Python, Django, React** -->
 
-- 📫 How to reach me **mail.risin@gmail.com**
-- 💻 [My Portfolio](https://muhammedrisin.com/)
+- 📫 Reach me at **mail.risin@gmail.com**
+- 💻 [muhammedrisin.com](https://muhammedrisin.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
